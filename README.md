@@ -4,27 +4,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.4.2.3 (Windows)"/>
-	<meta name="created" content="2022-12-25T10:05:59.885000000"/>
-	<meta name="changed" content="2022-12-25T10:13:20.823000000"/>
-	<style type="text/css">
-		@page { size: 8.5in 11in; margin: 0.79in }
-		p { line-height: 115%; margin-bottom: 0.1in; background: transparent }
-		h1 { margin-bottom: 0.08in; background: transparent; page-break-after: avoid }
-		h1.western { font-family: "Liberation Sans", sans-serif; font-size: 18pt; font-weight: bold }
-		h1.cjk { font-family: "Microsoft YaHei"; font-size: 18pt; font-weight: bold }
-		h1.ctl { font-family: "Arial"; font-size: 18pt; font-weight: bold }
-		pre { background: transparent }
-		pre.western { font-family: "Liberation Mono", monospace; font-size: 10pt }
-		pre.cjk { font-family: "NSimSun", monospace; font-size: 10pt }
-		pre.ctl { font-family: "Liberation Mono", monospace; font-size: 10pt }
-		code.western { font-family: "Liberation Mono", monospace }
-		code.cjk { font-family: "NSimSun", monospace }
-		code.ctl { font-family: "Liberation Mono", monospace }
-		a:link { color: #000080; so-language: zxx; text-decoration: underline }
-		a:visited { color: #800000; so-language: zxx; text-decoration: underline }
-	</style>
+	
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><h1 class="western">
                           The Exchange Admin Center 
